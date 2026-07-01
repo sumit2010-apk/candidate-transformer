@@ -1,0 +1,93 @@
+{
+    "candidate_id": "ML0001",
+    "profile": {
+        "current_city": "Bangalore",
+        "degree": "Bachelor of Science (B.Sc)",
+        "stream": "Mathematics",
+        "graduation_year": 2017
+    },
+    "academic_scores": {
+        "ug": null,
+        "class_12": null,
+        "class_10": null
+    },
+    "technical_assessment": {
+        "python": {
+            "score": 0,
+            "confidence": 0.95,
+            "source": "excel"
+        },
+        "r_programming": {
+            "score": 2,
+            "confidence": 0.95,
+            "source": "excel"
+        },
+        "deep_learning": {
+            "score": 0,
+            "confidence": 0.95,
+            "source": "excel"
+        },
+        "mongodb": {
+            "score": 0,
+            "confidence": 0.95,
+            "source": "excel"
+        },
+        "nodejs": {
+            "score": 0,
+            "confidence": 0.95,
+            "source": "excel"
+        },
+        "reactjs": {
+            "score": 0,
+            "confidence": 0.95,
+            "source": "excel"
+        }
+    },
+    "resume_extracted": {
+        "skills": [
+            {
+                "name": "Streamlit",
+                "confidence": 0.85,
+                "source": "resume"
+            },
+            {
+                "name": "Java",
+                "confidence": 0.85,
+                "source": "resume"
+            },
+            {
+                "name": "Git",
+                "confidence": 0.85,
+                "source": "resume"
+            },
+            {
+                "name": "MongoDB",
+                "confidence": 0.85,
+                "source": "resume"
+            },
+            {
+                "name": "Python",
+                "confidence": 0.85,
+                "source": "resume"
+            }
+        ],
+        "education": [
+            {
+                "name": "Nitte Meenakshi Institute of Technology",
+                "confidence": 0.85,
+                "source": "resume"
+            }
+        ]
+    },
+    "provenance": [
+        {
+            "field": "technical_assessment",
+            "source": "excel"
+        },
+        {
+            "field": "resume_extracted",
+            "source": "resume"
+        }
+    ],
+    "overall_confidence": 0.9
+}
